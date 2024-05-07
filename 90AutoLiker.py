@@ -1,4 +1,4 @@
-import spotipy, os, configparser, json, pprint
+import spotipy, os, configparser, json
 from spotipy.oauth2 import SpotifyOAuth
 from spotipy.oauth2 import SpotifyClientCredentials
 from time import sleep
